@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 flask = "*"
+requests = "*"
+gunicorn = "*"
 
 [dev-packages]
 nose = "*"
